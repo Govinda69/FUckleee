@@ -6,7 +6,7 @@ const path = require('path');
 const bot = mineflayer.createBot({
   host: '8b8t.me', // Change to your server IP if needed
   port: 25565,       // Default Minecraft port
-  username: '0xPwnd_MapMaker', // Bot username
+  username: '0xPwnd_ONTOP', // Bot username
   version: '1.21.1'    // Minecraft version (adjust as needed)
 });
 
